@@ -7,8 +7,8 @@
 ## 一、 数据结构 (Data Structures)
 ### 1. 字符串 (String)
 - [ ] 字典树 (Trie)
-  - [ ] 208. 实现 Trie (前缀树) - Medium
-  - [ ] 211. 添加与搜索单词 - Medium
+  - [x] 208. 实现 Trie (前缀树) - Medium
+  - [x] 211. 添加与搜索单词 - Medium
   - [ ] 212. 单词搜索 II - Hard
 - [ ] 后缀树 (Suffix Tree/Array)
   - [ ] 1062. 最长重复子串 - Medium
