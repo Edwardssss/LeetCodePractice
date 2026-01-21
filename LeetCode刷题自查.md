@@ -7,9 +7,9 @@
 ## 一、 数据结构 (Data Structures)
 ### 1. 字符串 (String)
 - [ ] 字典树 (Trie)
-  - [x] 208. 实现 Trie (前缀树) - Medium
-  - [x] 211. 添加与搜索单词 - Medium
-  - [ ] 212. 单词搜索 II - Hard
+  - [x] 208. 实现 Trie (前缀树) - Medium（需复习）
+  - [x] 211. 添加与搜索单词 - Medium（需复习）
+  - [x] 212. 单词搜索 II - Hard（需复习）
 - [ ] 后缀树 (Suffix Tree/Array)
   - [ ] 1062. 最长重复子串 - Medium
   - [ ] 1044. 最长重复子串 - Hard
@@ -17,7 +17,7 @@
 
 ### 2. 数组与双指针 (Array & Pointers)
 - [ ] 数组基础
-  - [ ] 1. 两数之和 - Easy
+  - [x] 1. 两数之和 - Easy（复习更优解）
   - [ ] 189. 轮转数组 - Medium
 - [ ] 双指针 (Two Pointers)
   - [ ] 11. 盛最多水的容器 - Medium
