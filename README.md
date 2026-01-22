@@ -20,7 +20,7 @@
   - [x] 1. 两数之和 - Easy（复习更优解）
   - [x] 189. 轮转数组 - Medium（复习更优解）
 - [ ] 双指针 (Two Pointers)
-  - [ ] 11. 盛最多水的容器 - Medium
+  - [x] 11. 盛最多水的容器 - Medium
   - [ ] 15. 三数之和 - Medium
   - [ ] 167. 两数之和 II - 输入有序数组 - Medium
 - [ ] 滑动窗口 (Sliding Window)
