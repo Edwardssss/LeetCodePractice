@@ -6,7 +6,7 @@
 
 ## 一、 数据结构 (Data Structures)
 ### 1. 字符串 (String)
-- [ ] 字典树 (Trie)
+- [x] 字典树 (Trie)
   - [x] 208. 实现 Trie (前缀树) - Medium（需复习）
   - [x] 211. 添加与搜索单词 - Medium（需复习）
   - [x] 212. 单词搜索 II - Hard（需复习）
@@ -19,10 +19,10 @@
 - [x] 数组基础
   - [x] 1. 两数之和 - Easy（复习更优解）
   - [x] 189. 轮转数组 - Medium（复习更优解）
-- [ ] 双指针 (Two Pointers)
+- [x] 双指针 (Two Pointers)
   - [x] 11. 盛最多水的容器 - Medium（复习更优解）
   - [x] 15. 三数之和 - Medium（需复习）
-  - [ ] 167. 两数之和 II - 输入有序数组 - Medium
+  - [x] 167. 两数之和 II - 输入有序数组 - Medium
 - [ ] 滑动窗口 (Sliding Window)
   - [ ] 3. 无重复字符的最长子串 - Medium
   - [ ] 209. 长度最小的子数组 - Medium
