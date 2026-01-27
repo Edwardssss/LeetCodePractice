@@ -32,7 +32,7 @@
 - [ ] 单、双向链表基础
   - [x] 206. 反转链表 - Easy（复习递归法）
   - [x] 2. 两数相加 - Medium
-  - [ ] 146. LRU 缓存 (综合应用) - Medium
+  - [x] 146. LRU 缓存 (综合应用) - Medium
   - [ ] 25. K 个一组翻转链表 - Hard
 - [ ] 快慢指针 (Fast & Slow Pointers)
   - [ ] 141. 环形链表 - Easy
