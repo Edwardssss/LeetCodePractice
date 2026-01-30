@@ -34,10 +34,10 @@
   - [x] 2. 两数相加 - Medium
   - [x] 146. LRU 缓存 (综合应用) - Medium（需复习）
   - [x] 25. K 个一组翻转链表 - Hard（需复习）
-- [ ] 快慢指针 (Fast & Slow Pointers)
+- [x] 快慢指针 (Fast & Slow Pointers)
   - [x] 141. 环形链表 - Easy（复习更优解）
   - [x] 142. 环形链表 II - Medium（复习更优解）
-  - [ ] 287. 寻找重复数 - Medium
+  - [x] 287. 寻找重复数 - Medium（需复习）
 - [ ] 跳舞链 (Dancing Links)
   - [ ] 37. 解数独 - Hard
 
