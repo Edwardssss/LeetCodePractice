@@ -44,8 +44,8 @@
   - [x] 20. 有效的括号 - Easy
   - [x] 232. 用栈实现队列 - Easy
 - [ ] 单调栈 (Monotonic Stack)
-  - [x] 496. 下一个更大元素 I - Easy
-  - [ ] 503. 下一个更大元素 II - Medium
+  - [x] 496. 下一个更大元素 I - Easy（复习更优解）
+  - [x] 503. 下一个更大元素 II - Medium（复习更优解）
   - [ ] 739. 每日温度 - Medium
   - [ ] 42. 接雨水 - Hard
 - [ ] 单调队列 (Monotonic Queue)
