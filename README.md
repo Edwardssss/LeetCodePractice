@@ -46,7 +46,7 @@
 - [ ] 单调栈 (Monotonic Stack)
   - [x] 496. 下一个更大元素 I - Easy（复习更优解）
   - [x] 503. 下一个更大元素 II - Medium（复习更优解）
-  - [ ] 739. 每日温度 - Medium
+  - [x] 739. 每日温度 - Medium（需熟悉代码）
   - [ ] 42. 接雨水 - Hard
 - [ ] 单调队列 (Monotonic Queue)
   - [ ] 239. 滑动窗口最大值 - Hard
